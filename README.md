@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @LiperaDev067
 
 ## 🚀 About Me
-Sou um desenvolvedor apaixonado por programação e tecnologia, sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
+Sou um desenvolvedor apaixonado por programação e tecnologia, sempre buscando aprimorar minhas habilidades e criar projetos inovadores. Tenho estudos e certificações em Business Intelligence (BI) e sou Six Sigma White Belt.
 
 ## 🌱 I’m currently learning
 - DBA Oracle com foco em Business Intelligence
